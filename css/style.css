@@ -490,6 +490,14 @@ aside a:hover{
     	max-width: 960px;
     	margin: 10px auto;
 }
+.rev {
+	font-size: 1.5rem;
+	padding: 10px;
+    	font-family: 'Comfortaa', cursive;
+    	color: rgb(126, 79, 179);
+		text-shadow: 1px 1px 1px rgb(2, 2, 2);
+		text-align: center;
+}
 #calendar2 {
         border-top: 7px solid rgba(255, 255, 255, 0.4588235294117647);
     	border-bottom: 7px solid rgba(255, 255, 255, 0.4588235294117647);
